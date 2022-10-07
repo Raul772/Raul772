@@ -8,7 +8,7 @@
 <div>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-  <p align="left">Aqui estão algumas das linguagens e ferramentas que estudo ou já tive contato 😊</p>
+<p align="left">Aqui estão algumas das linguagens e ferramentas que estudo ou já tive contato 😊</p>
   
 <p align="left"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -21,6 +21,10 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="Bootstrap" width="40" height="40"></a>
  </p>
+ 
+ <h3>Contato 💬</h3>
+ <p><a href="https://www.linkedin.com/in/raul-silva-42443922b/"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" width="40" height="40"></a>
+  <a href="mailto:raulvictor772@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40"</a></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul772&theme=graywhite&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul772&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
