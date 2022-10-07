@@ -22,4 +22,5 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="Bootstrap" width="40" height="40"></a>
  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul772&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul772&theme=graywhite&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul772&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
