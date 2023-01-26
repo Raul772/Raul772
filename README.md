@@ -26,5 +26,3 @@
  <p><a href="https://www.linkedin.com/in/raul-silva-42443922b/"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" width="40" height="40"></a>
   <a href="mailto:raulvictor772@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40"</a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul772&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul772&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
