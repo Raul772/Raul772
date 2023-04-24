@@ -4,7 +4,7 @@
 <div>
   
 <div align="left">
-    <p><b>Graduando em sistemas de informação, dedicado atualmente aos estudos de Front-End, Back-End com ASP.NET e UI/UX Design, porém sempre aberto às diversas oportunidades!</b></p>
+    <p><b>Graduando em sistemas de informação, dedicado atualmente aos estudos de Front-End com React, Back-End com ASP.NET e UI/UX Design, porém sempre aberto às diversas oportunidades!</b></p>
 <div>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
