@@ -4,7 +4,7 @@
 <div>
   
 <div align="left">
-    <p><b>Graduando em sistemas de informação, aprendiz em HTML, CSS e Javascript. Aspirante a desenvolvedor front-end e amante da tecnologia 🥰</b></p>
+    <p><b>Graduando em sistemas de informação, dedicado aos estudos de Web Front-End, Back-End e UI/UX Design.</b></p>
 <div>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
