@@ -24,7 +24,7 @@
  </p>
  
  <h3>Contato 💬</h3>
- <p><a href="https://www.linkedin.com/in/raul-silva-42443922b/"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" width="40" height="40"></a>
+ <p><a href="https://www.linkedin.com/in/raulvictor772/"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" width="40" height="40"></a>
   <a href="mailto:raulvictor772@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40"</a></p>
   
  ![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=Raul772&show_icons=true&bgcolor=#ffffff70&title_color=#9fa5edff&border_color=#9fa5edff&icon_color=#9fa5edff&ring_color=#9fa5edff)
