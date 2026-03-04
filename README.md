@@ -1,6 +1,6 @@
 ## Raul Victor
 
-Oie! Sou desenvolvedor fullstack e graduando em Sistemas de Informação pela UFVJM. Utilizo tecnologias como React, JavaScript, TypeScript, Express (Node.js) e FastAPI (Python).
+Oie! Sou desenvolvedor fullstack e graduado em Sistemas de Informação pela UFVJM. Utilizo tecnologias como React, JavaScript, TypeScript, Express (Node.js) e FastAPI (Python).
 
 ## Experiência Profissional
 
