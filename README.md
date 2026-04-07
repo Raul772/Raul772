@@ -24,7 +24,7 @@ Oie! Sou desenvolvedor fullstack e graduado em Sistemas de Informação pela UFV
   <img src="https://img.shields.io/badge/React-6E63DE?style=for-the-badge&logo=react&logoColor=white"> 
   <img src="https://img.shields.io/badge/Node.js-6E63DE?style=for-the-badge&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/html-6E63DE?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-6E63DE?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-6E63DE?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-6E63DE?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Javascript-6E63DE?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
@@ -32,6 +32,7 @@ Oie! Sou desenvolvedor fullstack e graduado em Sistemas de Informação pela UFV
 ### DevOps & Cloud
 
 <p>
+  <img src="https://img.shields.io/badge/kubernetes-F3BEF3.svg?style=for-the-badge&logo=kubernetes&logoColor=gray"> 
   <img src="https://img.shields.io/badge/docker-F3BEF3.svg?style=for-the-badge&logo=docker&logoColor=gray"> 
   <img src="https://img.shields.io/badge/git-F3BEF3.svg?style=for-the-badge&logo=git&logoColor=gray"> 
   <img src="https://img.shields.io/badge/github-F3BEF3.svg?style=for-the-badge&logo=github&logoColor=gray">
